@@ -1,5 +1,5 @@
 @[has_globals]
-module main
+module vtimer
 
 import time { sleep }
 import sync.stdatomic
